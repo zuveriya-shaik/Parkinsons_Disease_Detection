@@ -89,5 +89,7 @@ The application allows you to train and compare the performance of LSTM, GRU, an
 
 <img src="https://raw.githubusercontent.com/zuveriya-shaik/Parkinsons_Disease_Detection/refs/heads/main/Datasets/Screenshot%202025-06-19%20131610.png" alt="Streamlit App Screenshot - Model Comparison" width="700">
 
+<img src="https://raw.githubusercontent.com/zuveriya-shaik/Parkinsons_Disease_Detection/refs/heads/main/Datasets/Screenshot%202025-06-19%20134321.png" alt="Streamlit App Screenshot - Data Input or Results Table" width="700">
+
 <img src="https://raw.githubusercontent.com/zuveriya-shaik/Parkinsons_Disease_Detection/refs/heads/main/Datasets/Screenshot%202025-06-19%20132043.png" alt="Streamlit App Screenshot - Prediction Interface" width="700">
 
