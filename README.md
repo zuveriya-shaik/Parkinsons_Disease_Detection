@@ -87,5 +87,5 @@ Follow these steps to set up and run the project locally.
 
 The application allows you to train and compare the performance of LSTM, GRU, and Hybrid LSTM-GRU models. The hybrid model is generally expected to perform better at extracting complex sequential information from voice data, leading to higher accuracy, precision, recall, and F1-score in detecting Parkinson's disease.
 
-
+<img src="https://raw.githubusercontent.com/zuveriya-shaik/Parkinsons_Disease_Detection/refs/heads/main/Datasets/Screenshot%202025-06-19%20131610.png" alt="Streamlit App Screenshot - Model Comparison" width="700">
 
